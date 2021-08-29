@@ -1,9 +1,9 @@
 # u-develop-it
-**Title:**
+## **Title:**
   Create a database that contains the candidates table
 
-  **Body:**
-  **User Story**
+  ## **Body:**
+  ## **User Story**
 
   * As a user, I can request a list of all potential candidates.
 
@@ -13,11 +13,11 @@
 
   * As a user, I want to create a candidate.
   
-  **Title:**
+  ## **Title:**
   Create the parties table
 
-  **Body:**
-  **User Story**
+  ## **Body:**
+  ## **User Story**
 
   * As a user, I can update a candidate's party affiliation.
 
