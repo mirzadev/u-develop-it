@@ -35,11 +35,11 @@
 
   * As a user, I want to create a candidate.
   
-  **Title:**
+  ## **Title:**
   Create the voters table
 
-  **Body:**
-  **User Story**
+  ## **Body:**
+  ## **User Story**
 
   * As a user, I can request a list of voters alphabetized by last name.
 
@@ -51,11 +51,11 @@
 
   * As a user, I can delete a voter.
   
-  **Title:**
+  ## **Title:**
   Create the votes table
 
-  **Body:**
-  **User Story**
+  ## **Body:**
+  ## **User Story**
 
   * As a user, I can tabulate all the votes cast by candidate ID in descending order.
 
